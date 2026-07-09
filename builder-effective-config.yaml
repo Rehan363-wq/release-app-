@@ -1,0 +1,26 @@
+directories:
+  output: release
+  buildResources: build
+appId: com.gomenu.desktop
+productName: GO Menu POS Billing
+files:
+  - filter:
+      - dist/**/*
+      - dist-electron/**/*
+win:
+  target: nsis
+  icon: public/icon.png
+mac:
+  icon: public/icon.png
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: GO Menu POS Billing
+  deleteAppDataOnUninstall: false
+publish:
+  - provider: github
+    owner: Rehan363-wq
+    repo: release-app-
+electronVersion: 35.7.5
