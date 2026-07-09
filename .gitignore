@@ -1,0 +1,4 @@
+win-unpacked/
+*0.0.0*
+*.blockmap
+builder-debug.yml
