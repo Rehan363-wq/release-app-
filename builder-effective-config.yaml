@@ -20,7 +20,6 @@ nsis:
   shortcutName: GO Menu POS Billing
   deleteAppDataOnUninstall: false
 publish:
-  - provider: github
-    owner: Rehan363-wq
-    repo: release-app-
+  - provider: generic
+    url: https://raw.githubusercontent.com/Rehan363-wq/release-app-/main/
 electronVersion: 35.7.5
