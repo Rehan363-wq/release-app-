@@ -1,8 +1,8 @@
-version: 1.1.1
+version: 1.1.2
 files:
-  - url: GO Menu POS Billing Setup 1.1.1.exe
-    sha512: BoEsUAqLjsDdypLB18kKofngBTRYlUbZjXRbrJhfmA+MPMWjcA5onNdM2ExhyRmJrf0vFfjhyIVsNFJRSP3auw==
-    size: 97251681
-path: GO Menu POS Billing Setup 1.1.1.exe
-sha512: BoEsUAqLjsDdypLB18kKofngBTRYlUbZjXRbrJhfmA+MPMWjcA5onNdM2ExhyRmJrf0vFfjhyIVsNFJRSP3auw==
-releaseDate: '2026-07-29T09:11:19.618Z'
+  - url: GO Menu POS Billing Setup 1.1.2.exe
+    sha512: MeX+uhxz2ZfqYzmElF9ICTQ1ifcobRgTL5poPmYiA1m3lcO7QPG0tfzZthmjIvfZ7FYjkiPB6GjMgDq9i8yosQ==
+    size: 97255761
+path: GO Menu POS Billing Setup 1.1.2.exe
+sha512: MeX+uhxz2ZfqYzmElF9ICTQ1ifcobRgTL5poPmYiA1m3lcO7QPG0tfzZthmjIvfZ7FYjkiPB6GjMgDq9i8yosQ==
+releaseDate: '2026-08-01T13:10:46.766Z'
