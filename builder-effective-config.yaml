@@ -10,10 +10,14 @@ files:
 win:
   target: nsis
   icon: public/icon.png
+  legalTrademarks: GO Menu
+  artifactName: ${productName} Setup ${version}.${ext}
+  requestedExecutionLevel: asInvoker
 mac:
   icon: public/icon.png
 nsis:
   oneClick: false
+  perMachine: false
   allowToChangeInstallationDirectory: true
   createDesktopShortcut: true
   createStartMenuShortcut: true
